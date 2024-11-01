@@ -1,0 +1,29 @@
+.locked {
+    font-size: 18px;   
+}
+
+.locked_handle{
+    background-image: url("../img/right_arrow.png");
+}  
+
+.unlocked_handle{
+    background-image: url("../img/check.png");  
+    background-repeat: no-repeat;
+    background-position-y: center;
+    background-position-x: center;   
+}  
+
+.cptch_slide_container {
+    width: 100%;
+}
+
+.loading_handle{
+    background-image: url("../img/loader.gif");
+    background-repeat: no-repeat;
+    background-position-y: center;
+    background-position-x: center; 
+}
+.cptch_slide_captcha_container{
+    margin-top:20px;
+    margin-bottom: 20px;
+}
